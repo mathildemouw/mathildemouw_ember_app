@@ -1,7 +1,8 @@
 # Mathildemouw-emberapp
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is for my own learning and exploration of Ember.js
+
+If you would like to run this app locally take a look at the Ember.js requirements below:
 
 ## Prerequisites
 
